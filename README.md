@@ -1,16 +1,11 @@
-# named_routes
+# Named Routes
 
-A new Flutter project.
+one of the cookbooks at flutter.dev about named routes
 
-## Getting Started
+## screenshot
+![named_routes](https://github.com/merihcavdar/named_routes/assets/84540989/0d33fa49-7f07-4ec5-9c5a-64233ce47d31)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- MaterialApp -> routes
+- Navigator.pushNamed
+- Navigator.pop
